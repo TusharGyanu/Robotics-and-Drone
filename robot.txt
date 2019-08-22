@@ -27,7 +27,7 @@ void setup() {
   // set up the LCD's number of columns and rows:
 lcd.begin(16, 2);
 // Print a message to the LCD.
-lcd.print("Chutiya");
+lcd.print("hii I am Chitti");
   
   pinMode(motorLPin1,OUTPUT);        
   pinMode(motorLPin2,OUTPUT);
